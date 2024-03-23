@@ -23,7 +23,7 @@
 &nbsp;
 <img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/power-bi-vector-logo-2022.svg"/>
 &nbsp;
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-Rabbitt.svg"/>
+<img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/postman-inc-logo-vector.svg"/>
 </div>
 
 <br>
@@ -31,13 +31,3 @@
 
 <br>
 
-##
-
-
-##
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorperes02&layout=compact&theme=radical)
-
-##
-
-![snake gif](https://github.com/victorperes02/victorperes02/blob/output/github-contribution-grid-snake.svg)
