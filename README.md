@@ -21,7 +21,7 @@
 &nbsp;
 <img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/mysql-horizontal.svg"/>
 &nbsp;
-<img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/microsoft_powerbi-ar21.svg"/>
+<img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/power-bi-vector-logo-2022.svg"/>
 &nbsp;
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-Rabbitt.svg"/>
 </div>
