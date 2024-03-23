@@ -15,13 +15,13 @@
 
 
 <div>	
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-HTML.svg" />
+<img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/azure-svgrepo-com.svg" />
 &nbsp;
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-CSS.svg"/>
+<img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/databricks-vector-logo-2022.svg"/>
 &nbsp;
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/3-JavaScript.svg"/>
+<img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/mysql-horizontal.svg"/>
 &nbsp;
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/3-Docker.svg"/>
+<img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/microsoft_powerbi-ar21.svg"/>
 &nbsp;
 <img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/2-Rabbitt.svg"/>
 </div>
@@ -40,14 +40,6 @@
 
 
 <br>
-<div>
-  
-### Level Legend:
-- Beginner: Green 🟢 <!--#239120-->
-- Intermediary: Red 🔴 <!--#cc2927-->
-- Advanced: Yellow 🟡
-
-</div>
 
 ##
 
