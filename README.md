@@ -24,6 +24,8 @@
 <img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/power-bi-vector-logo-2022.svg"/>
 &nbsp;
 <img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/postman-inc-logo-vector.svg"/>
+&nbsp;
+<img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/Python_(programming_language)-Logo.wine.svg"/>
 </div>
 
 <br>
