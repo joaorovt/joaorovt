@@ -15,7 +15,7 @@
 
 
 <div>	
-<img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/azure-svgrepo-com.svg" />
+<img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/Microsoft_Azure-Logo.wine.svg" />
 &nbsp;
 <img src = "https://github.com/joaorovt/joaorovt/blob/main/Imagens/databricks-vector-logo-2022.svg"/>
 &nbsp;
