@@ -28,16 +28,6 @@
 
 <br>
 
-<div>
-  
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/3-CSHARP.svg"/>
-&nbsp;
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-PYTHON.svg"/>
-&nbsp;
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-SqlServer.svg"/>
-&nbsp;
-<img src = "https://github.com/victorperes02/victorperes02/blob/main/imagens/1-MySql.svg"/>
-
 
 <br>
 
